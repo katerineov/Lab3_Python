@@ -8,7 +8,7 @@
 
 
 
-![Lab-Kate_3_2](https://github.com/TcHaOcHeK/For-_Kate_2/assets/160489385/3c5f66c4-3971-49a1-a1f6-520844b5f887)
+![image](https://github.com/katerineov/Lab3_Python/assets/162953749/ecc55afe-2284-4c2a-b3d4-7f01190d09f3)
 
 
 
